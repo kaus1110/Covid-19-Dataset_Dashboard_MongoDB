@@ -13,6 +13,8 @@ The dataset is a comprehensive collection of COVID-19 statistics across various 
 - **WHO Regional Data**: Aggregated case numbers by World Health Organization (WHO) regions.
 
 The dataset facilitates a granular understanding of how the pandemic has evolved globally, with a focus on country-specific and regional trends.
+![image](https://github.com/user-attachments/assets/c438071e-94c9-41de-9c1f-1f8818f008c6)
+
 
 ---
 
