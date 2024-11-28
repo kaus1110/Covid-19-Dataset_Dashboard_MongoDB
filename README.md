@@ -1,6 +1,8 @@
 # COVID-19 Dashboard Analysis
 ![Covid_19 Dashboard (1)](https://github.com/user-attachments/assets/358251fd-ea08-408c-848f-d57ceba35758)
 
+# Comprehensive Analysis and Visualization of COVID-19 Global Impact: Trends, Insights, and Strategic Implications
+
 
 ## About the Dataset
 
